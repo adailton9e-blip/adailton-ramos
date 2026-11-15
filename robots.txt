@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /__grok/
+Sitemap: https://adailton9e-blip.github.io/adailton-ramos/sitemap.xml
